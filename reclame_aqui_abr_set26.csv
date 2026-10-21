@@ -1,0 +1,7 @@
+banco,reputacao,nota_reputacao,reclamacoes_6m,respondidas_pct,solucao_pct,voltariam_pct,nota_consumidor,tempo_resposta_dias,produto_mais_citado,produto_pct,problema_mais_citado,problema_pct
+Nubank,RA1000,8.7,56623,99.9,93.1,81.2,7.76,3.96,Cartão de crédito,45.42,Cobrança indevida,17.87
+Itaú,Ótima,8.1,17947,99.2,85.8,74.1,7.03,7.38,Conta,36.45,Cobrança indevida,18.79
+C6 Bank,Boa,7.2,19253,99.3,75.9,60.4,5.72,11.04,Cartão de crédito,28.17,Cobrança indevida,23.14
+Banco do Brasil,Boa,7.3,25433,99.9,71.6,64.9,6.07,8.92,Cartão de crédito,21.51,Cobrança indevida,22.56
+Bradesco,Regular,6.9,31185,99.9,68.1,58.5,5.61,7.88,Conta,32.68,Cobrança indevida,21.20
+Caixa Econômica Federal,Boa,7.0,37464,99.5,66.6,63.3,5.79,9.79,Conta,15.84,Cobrança indevida,16.46
