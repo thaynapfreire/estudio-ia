@@ -36,8 +36,8 @@ Tudo o que o discovery assume e ainda não foi confirmado. Cada linha tem a evid
 
 | ID | Hipótese | Status | Evidência atual | Como validar |
 |---|---|---|---|---|
-| H14 | O direito do art. 54-G, I (pagar só a parte não contestada) é pouco conhecido | 🟡 | Nenhuma das 6 páginas de bancos o menciona | Entrevistas; teste de compreensão |
-| H15 | Nenhum simulador de banco conecta contestação a pagamento | 🟡 | 6 bancos verificados; Bradesco, BB e Caixa não | Verificar os 3 restantes |
+| H14 | O direito do art. 54-G, I (pagar só a parte não contestada) é pouco conhecido | 🟡 | Nenhuma das 5 páginas de bancos o menciona | Entrevistas; teste de compreensão |
+| H15 | Nenhum simulador de banco conecta contestação a pagamento | 🟡 | 5 bancos verificados; Bradesco, BB e Caixa não | Verificar os 3 restantes |
 | H16 | Mostrar o custo de cada caminho reduz pagamento indevido e entrada no rotativo | ⚪ | Hipótese de valor | Teste com protótipo: decisão antes × depois |
 | H17 | Taxas médias públicas do BC bastam como referência | 🟡 | BC publica por instituição; média ≠ taxa do cliente | Comparar média com taxas de faturas reais (voluntárias) |
 | H18 | É possível usar a calculadora sem colar dado pessoal | ⚪ | Desenho pede só valores e datas | Teste de uso: alguém tenta colar a fatura? |
