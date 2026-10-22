@@ -6,7 +6,7 @@
 
 ## Achado principal
 
-Nenhum dos seis simuladores de banco verificados conecta a contestação ao pagamento da fatura. Mesmo assim, o **CDC, art. 54-G, I** (incluído pela Lei 14.181/2021) já garante que, se o cliente avisar o banco **pelo menos 10 dias antes do vencimento**, o valor contestado não pode ser cobrado enquanto a disputa não for resolvida, e ele pode **pagar só a parte não contestada** (TJDFT, Direito Fácil, 10/09/2022).
+Nenhum dos cinco simuladores de banco verificados conecta a contestação ao pagamento da fatura. Mesmo assim, o **CDC, art. 54-G, I** (incluído pela Lei 14.181/2021) já garante que, se o cliente avisar o banco **pelo menos 10 dias antes do vencimento**, o valor contestado não pode ser cobrado enquanto a disputa não for resolvida, e ele pode **pagar só a parte não contestada** (TJDFT, Direito Fácil, 10/09/2022).
 
 Isso muda a pergunta da Fase 4:
 1. **Avisei o banco a tempo?** Se sim, pago só a parte não contestada.
@@ -49,7 +49,7 @@ Nome de trabalho sugerido: **Calculadora da fatura contestada**.
 
 | Gap | Oportunidade | Evidência |
 |---|---|---|
-| 1. Contestação desconectada do pagamento | Mostrar o art. 54-G e calcular quanto pagar agora | [DADO] direito existe e nenhuma das 6 páginas o cita. [INFERÊNCIA] público não conhece |
+| 1. Contestação desconectada do pagamento | Mostrar o art. 54-G e calcular quanto pagar agora | [DADO] direito existe e nenhuma das 5 páginas o cita. [INFERÊNCIA] público não conhece |
 | 2. Sem comparação neutra | Comparar pagar tudo, só o não contestado, mínimo, parcelar | [DADO] BC publica taxas por instituição |
 | 3. Exige login e app | Calculadora aberta, por conversa ou impressa | [DADO] |
 | 4. Teto de 100% invisível | Mostrar o custo máximo | [DADO] só Nubank cita |
@@ -77,7 +77,7 @@ Bônus para consignado: os §§ 1º e 2º do mesmo artigo obrigam a entrega da c
 | Afirmação | Como confirmei | Status |
 |---|---|---|
 | Art. 54-G, I | TJDFT + LegJur | 🟡 Falta o texto no Planalto |
-| Padrão dos 6 simuladores | Páginas públicas | ✅ Primária |
+| Padrão dos 5 simuladores | Páginas públicas | ✅ Primária |
 | Bradesco, BB, Caixa | Não carregaram | ❌ Lacuna |
 | Indicador por instituição | O Povo, Suno; página do BC precisa de JavaScript | 🟡 |
 | Parcelado 2026 | Não encontrado | ❌ Lacuna |
